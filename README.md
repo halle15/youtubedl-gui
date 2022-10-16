@@ -18,7 +18,7 @@
   ### Authors
   Organizing Developer - Evann M Hall
   
-  Lead Developer/UI Developer - tjens
+  Lead Developer/UI Developer - Tyler J Heinz
   
   Developer - Chandler J Horton
   
