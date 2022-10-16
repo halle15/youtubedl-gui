@@ -1,11 +1,11 @@
 # youtubedl-gui
 
 ## Description
-  This application was designed to provide a lightweight and easy to use GUI for ![youtube-dl](https://github.com/ytdl-org/youtube-dl), a command line library used to get videos from YouTube. 
+  This application was designed to provide a lightweight and easy to use GUI for [youtube-dl](https://github.com/ytdl-org/youtube-dl), a command line library used to get videos from YouTube. 
   
   Throughout the internet, there are plenty examples of shady websites and applications that claim to quickly gather the mp3/mp4 file for a YouTube link, but are typically littered with ads and false download links. Instead of having to go through the process of dodging downloads and putting on an ad blocker, or rely on a service that may not exist soon, we thought it would be easier to have a simple desktop application to quickly gather needed videos without having to rely on external hardware.
   
-  While youtube-dl is a great command-line application, we found that more casual desktop users do not find command line interfaces as friendly, so we found that a lightweight implementation of ![PySimpleGUI](https://www.pysimplegui.org/en/latest/) as well as tkinter and the other libraries for creating simple GUI's in Python had a much better UI/UX than the shady websites mentioned before.
+  While youtube-dl is a great command-line application, we found that more casual desktop users do not find command line interfaces as friendly, so we found that a lightweight implementation of [PySimpleGUI](https://www.pysimplegui.org/en/latest/) as well as tkinter and the other libraries for creating simple GUI's in Python had a much better UI/UX than the shady websites mentioned before.
 
 
 ## Instructions
@@ -26,9 +26,9 @@
   
   ### External Dependencies
 
-  ![youtube-dl](https://github.com/ytdl-org/youtube-dl)
+  [youtube-dl](https://github.com/ytdl-org/youtube-dl)
   
-  ![PySimpleGUI](https://www.pysimplegui.org/en/latest/)
+  [PySimpleGUI](https://www.pysimplegui.org/en/latest/)
 
 ## Suggestions
   Direct any suggestions, changes, bug reports, etc. to https://github.com/halle15/youtubedl-gui/issues
